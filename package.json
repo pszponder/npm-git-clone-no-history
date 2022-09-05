@@ -1,0 +1,21 @@
+{
+  "name": "npm-git-clone-no-history",
+  "version": "1.0.0",
+  "description": "Clone a git repo and reset the git history",
+  "main": "./bin/index.js",
+  "bin": {
+    "git-clone-no-history": "./bin/index.js",
+    "gcnh": "./bin/index.js"
+  },
+  "repository": "pszponder/npm-git-clone-no-history",
+  "scripts": {},
+  "keywords": [
+    "git",
+    "clone",
+    "history",
+    "clean",
+    "node",
+    "cli"
+  ],
+  "license": "ISC"
+}
